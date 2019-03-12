@@ -1,1 +1,1 @@
-print("ltllt")
+print("twstn")
